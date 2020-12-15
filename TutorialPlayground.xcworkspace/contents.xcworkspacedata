@@ -8,10 +8,13 @@
          location = "group:README.md">
       </FileRef>
       <FileRef
-         location = "group:learn01.playground">
+         location = "group:project/hasher.playground">
       </FileRef>
       <FileRef
-         location = "group:/Users/dongwu/Developer/swift/TutorialPlaygroud/learn02.playground">
+         location = "group:/Users/dongwu/Developer/swift/TutorialPlaygroud/&#x8303;&#x578b;&#x53d8;&#x6210;.playground">
+      </FileRef>
+      <FileRef
+         location = "group:/Users/dongwu/Developer/swift/TutorialPlaygroud/&#x65e0;&#x7528;&#x7684;&#x57fa;&#x7840;&#x77e5;&#x8bc6;&#x53c8;&#x589e;&#x52a0;&#x4e86;.playground">
       </FileRef>
    </Group>
 </Workspace>
